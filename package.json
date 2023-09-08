@@ -5,7 +5,8 @@
     "ng": "ng",
     "start": "ng serve --host=127.0.0.1",
     "build": "ng build",
-    "prod": "ng build --deploy-url /TestApp/",
+    "prod": "ng build",
+    "prod-github": "ng build --deploy-url /TestApp/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
