@@ -43,7 +43,6 @@
                   "maximumError": "4kb"
                 }
               ],
-              "baseHref": "/TestApp/",
               "outputHashing": "all"
             },
             "development": {
